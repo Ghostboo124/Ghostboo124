@@ -1,4 +1,8 @@
-## Hi there 👋
+https://github-readme-stats.hackclub.dev/api/wakatime?username=10079&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+
+Hi there! My name is Alex, known as `_Ghostboo__` or Ghostboo124
+
+My journey in coding starting with some youtube python tutorials that my Dad gave me to keep me entertained while he worked, and has since evolved into osdev, learning rust, and understanding C(++) and joining Hack Club.
 
 <!--
 **Ghostboo124/Ghostboo124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
